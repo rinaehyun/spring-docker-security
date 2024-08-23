@@ -1,0 +1,10 @@
+.idea
+frontend.iml
+spring-docker-security.iml
+
+backend/HELP.md
+backend/mvnw.cmd
+backend/mvnw
+backend/.mvn
+
+frontend/README.md
